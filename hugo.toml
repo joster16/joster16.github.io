@@ -1,0 +1,33 @@
+baseURL = 'https://joster16.github.io/'
+locale = 'en-us'
+title = 'Oster Project Site'
+theme = "risotto"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  [params.theme]
+    palette = "base16-dark"
+  [params.about]
+    title = "Jacob"
+    description = "Notes, projects, and photos."
+    logo = "📷"
+
+[menus]
+  [[menus.main]]
+    name = "Blog"
+    pageRef = "/post"
+    weight = 10
+  [[menus.main]]
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 20
+  [[menus.main]]
+    name = "Photography"
+    url = "https://www.flickr.com/photos/138991257@N04/"   # plain external link
+    weight = 30
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 40
