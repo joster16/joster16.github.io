@@ -8,7 +8,7 @@ theme = "risotto"
 
 [params]
   [params.theme]
-    palette = "base16-dark"
+    palette = "tokyo-night-dark"
   [params.about]
     title = "Jacob"
     description = "Mechanical Engineer. 2023 Arkansas State Graduate. Passionate about Motorsports and Space."
