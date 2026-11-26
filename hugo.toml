@@ -1,6 +1,6 @@
 baseURL = 'https://joster16.github.io/'
 locale = 'en-us'
-title = 'Oster Project Site'
+title = 'Jacob Oster's Project Site'
 theme = "risotto"
 
 [markup.goldmark.renderer]
@@ -11,8 +11,7 @@ theme = "risotto"
     palette = "base16-dark"
   [params.about]
     title = "Jacob"
-    description = "Notes, projects, and photos."
-    logo = "📷"
+    description = "Mechanical Engineer. 2023 Arkansas State Graduate. Passionate about Motorsports and Space."
 
 [menus]
   [[menus.main]]
