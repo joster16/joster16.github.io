@@ -10,7 +10,7 @@ theme = "risotto"
   [params.theme]
     palette = "tokyo-night-dark"
   [params.about]
-    title = "Jacob"
+    title = "Jacob Oster"
     description = "Mechanical Engineer. 2023 Arkansas State Graduate. Passionate about Motorsports and Space."
 
 [menus]

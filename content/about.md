@@ -2,9 +2,8 @@
 title = 'About'
 +++
 
-I'm Jacob, an instrumentation and hardware engineer. I work with electronics,
-sensors, and data acquisition, from embedded firmware and PCB design to custom
-machine control.
+I'm Jacob Oster, an instrumentation and hardware engineer. I work with electronics,
+sensors, and data acquisition, from PCB design to custom machine control.
 
 ## What I'm working on
 
