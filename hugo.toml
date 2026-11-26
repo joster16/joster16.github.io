@@ -1,6 +1,6 @@
 baseURL = 'https://joster16.github.io/'
 locale = 'en-us'
-title = 'Jacob Oster's Project Site'
+title = 'Jacob Oster Project Site'
 theme = "risotto"
 
 [markup.goldmark.renderer]
